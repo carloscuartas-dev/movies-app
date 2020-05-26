@@ -1,5 +1,41 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="./movies-256x256.png" alt="Project logo"></a>
+</p>
+
+<h3 align="center">React Movies Search App</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/cuartasnet/movies-app/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/cuartasnet/movies-app/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
+<p align="center"> This project is a single app built with ReactJS to test API connection and Hooks coding.
+    <br> 
+</p>
+
+## 📝 Table of Contents
+
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [Author](#author)
+
+## 🧐 About <a name = "about"></a>
+
+This React App uses The Movies Org API to search and fetch Movies Info.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 🏁 Getting Started <a name = "getting_started"></a>
 ## Available Scripts
 
 In the project directory, you can run:
@@ -27,42 +63,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## ⛏️ Built Using <a name = "built_using"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [ReactJS](https://reactjs.org/docs/getting-started.html) - ReactJS
+- [HTML5](https://www.w3schools.com/html/) - Hypertext Markup Language
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3) - Cascading Style Sheet Language
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ✍️ Author <a name = "author"></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [@cuartasnet](https://github.com/cuartasnet) - Web Developer
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
